@@ -1,0 +1,6 @@
+{'punto': 5, 'comentario': 'hola'}
+{'punto': 1, 'comentario': 'siiiiiiiiiiiii'}
+{'punto': 5, 'comentario': 'hola'}
+{'punto': 5, 'comentario': 'hola'}
+{'punto': 5, 'comentario': 'claro que si'}
+punto: 5 comentario: hola
